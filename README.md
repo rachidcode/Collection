@@ -1,8 +1,8 @@
 # Collection
 
-*Projet solo
++ Projet solo
 
-*Date : 03/10/2020 to 05/10/2020
++ Date : 03/10/2020 to 05/10/2020
 
 ## Objectif
 
