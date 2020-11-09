@@ -6,7 +6,7 @@
 
 ## Objectif
 
-Construire un site avec tout ce que nous avons appris jusqu'à présent!
+Construire un site avec tout ce que nous avons appris jusqu'à présent
 
 ## Langage 
 
