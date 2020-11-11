@@ -1,5 +1,5 @@
  body {
-    background: url("https://www.iphon.fr/app/uploads/2019/09/iphone-11-white-iphone-8-7-6.jpg")  ;
+    background: url("https://www.benefsnet.com/images/cms/film.gif") no-repeat fixed  ;
 
 
 }
@@ -19,7 +19,7 @@ header h1 {
 
     font-size: 40px;
     text-align: center;
-    color: #fff;
+    color:gray;
     text-transform: uppercase;
     text-shadow: 2px 2px 2px #000;
     font-family: 'Limelight', sans-serif;
