@@ -18,7 +18,7 @@ Construire un site avec tout ce que nous avons appris jusqu'à présent
 
 ## Aperçu
 
-![Aperçu](https://raw.githubusercontent.com/becodeorg/bxl-hopper-1-25/master/The%20Field/5.leaving_the_field/pics/desktop.png?token=AP4VETQCHYSPIYTEV3QVLTS7WKQEC)
+![Aperçu](https://raw.githubusercontent.com/becodeorg/bxl-hopper-1-25/master/The%20Field/5.leaving_the_field/pics/desktop.png?token=AP4VETUFMFW6A4X42WCMS727YD5WI)
 
 
 
